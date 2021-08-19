@@ -1,0 +1,2 @@
+# AspNetCoreApp
+Net Core Application
